@@ -4,7 +4,7 @@
 using namespace std;
 
 
-int main(){
+int main ( ){
 
     int entero = 10 ;
     float flotante = 15.23 ;
