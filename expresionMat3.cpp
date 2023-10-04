@@ -8,7 +8,7 @@ using namespace std;
 
 int main ( ){
     
-    float a, b, c, d, e, f, resultado = 0 ;
+    float a , b , c , d , e , f , resultado = 0 ;
     
     cout << " Ingrese el valor para a: " ;
     cin >> a ;
